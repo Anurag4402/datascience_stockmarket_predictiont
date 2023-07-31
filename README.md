@@ -1,1 +1,1 @@
-# datascience_stockmarket_predictiont
+# datascience_stockmarket_prediction
